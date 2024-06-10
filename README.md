@@ -6,6 +6,8 @@ if you do some weird combinations with letters you can get interesting results!
 
 to install (or use) it, first you have to enable developer mode. to enable it, follow this guide from microsoft learn: [click me pls](https://learn.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development)
 
+**note: the compiled app may not work, you may have to compile it yourself.**
+
 then run the exe. windows will automatically detect it and add it to apps list.
 
 here's what it looks like: 
